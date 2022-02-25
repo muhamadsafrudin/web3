@@ -1,10 +1,8 @@
-
 <?php
-
 include('template/header.php');
 include('template/sidebar.php');
-
 ?>
+
         <div id="page-content-wrapper">
             <div class="container-fluid">
                 <div class="row">
@@ -16,8 +14,7 @@ include('template/sidebar.php');
                 </div>
             </div>
         </div>
-        <?php
 
+<?php
 include('template/footer.php');
-
 ?>

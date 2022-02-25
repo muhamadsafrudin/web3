@@ -9,7 +9,7 @@
                     <a href="#">Dashboard</a>
                 </li>
                 <li>
-                    <a href="#">Buku</a>
+                    <a href="/web3/buku">Buku</a>
                 </li>
                 <li>
                     <a href="#">Siswa</a>
